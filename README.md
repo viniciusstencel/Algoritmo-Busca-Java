@@ -5,5 +5,5 @@ Este algortimo consiste em fazer uma varredura completa no computador em busca d
 
 Grupo de desenvolvedores do algoritmo: 
   | Thiago Cesar Magalhães - RA: 172312614 Github user: @thiagomagh
-  | Gabriel de Almeida Silva - 
+  | Gabriel de Almeida Silva - RA: 172311246 Github user: @GabrielDeAlmeidaSilva
   | Vinícius Stencel Canto Silva - RA: 172315471 Github user: @viniciusstencel
